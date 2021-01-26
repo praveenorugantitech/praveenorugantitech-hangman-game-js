@@ -5,6 +5,6 @@
 </div>
 
 
-[Live Demo](http://praveenorugantitech.github.io/praveenorugantitech-hangman-game-js/Demo/)
+[Live Demo](http://praveenorugantitech.github.io/praveenorugantitech-hangman-js/Demo/)
 
 
